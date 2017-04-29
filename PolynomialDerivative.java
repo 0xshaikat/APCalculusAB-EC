@@ -44,7 +44,7 @@ public class PolynomialDerivative{
     s+= newexp.get(i);
     s+= " ";
     if (i!= coeff.size() - 1){
-      s+= "+";
+      s+= "+ ";
     }
   }
 
